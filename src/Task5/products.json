@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Alien Isolation",
+    "category": "Horror",
+    "price": 10.0,
+    "manufacturer": "The Creative Assembly",
+    "productionDate": "11-7-2014"
+  },
+  {
+    "id": 2,
+    "name": "Batman Arkham Asylum",
+    "category": "Action",
+    "price": 4.99,
+    "manufacturer": "Rocksteady Studios",
+    "productionDate": "03-26-2010"
+  },
+  {
+    "id": 3,
+    "name": "Command & Conquer 3",
+    "category": "RTS",
+    "price": 9.99,
+    "manufacturer": "EA Los Angeles",
+    "productionDate": "03-28-2007"
+  },
+  {
+    "id": 4,
+    "name": "Control",
+    "category": "Shooter",
+    "price": 15.99,
+    "manufacturer": "Remedy",
+    "productionDate": "08-27-2019"
+  },
+  {
+    "id": 5,
+    "name": "Dark Souls",
+    "category": "RPG",
+    "price": 12.0,
+    "manufacturer": "FromSoftware",
+    "productionDate": "08-12-2012"
+  },
+  {
+    "id": 6,
+    "name": "Half-Life 2",
+    "category": "Shooter",
+    "price": 3.99,
+    "manufacturer": "Valve Corporation",
+    "productionDate": "11-16-2004"
+  },
+  {
+    "id": 7,
+    "name": "Mass Effect 2",
+    "category": "RPG",
+    "price": 8.99,
+    "manufacturer": "Bioware",
+    "productionDate": "01-26-2010"
+  },
+  {
+    "id": 8,
+    "name": "Resident Evil 7",
+    "category": "Horror",
+    "price": 20.0,
+    "manufacturer": "Capcom",
+    "productionDate": "12-19-2016"
+  }
+]
